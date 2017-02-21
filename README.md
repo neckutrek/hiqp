@@ -1,7 +1,7 @@
 # The HiQP Control Framework
 Copyright (C) 2016-2017 Marcus A. Johansson
 
-<i>This is a snapshot of the HiQP source code as of after having finished my M.Sc. thesis. It is kept here as a showcase of my final M.Sc. work. For the real HiQP source code, please checkout the OrebroUniversity at GitHub.</i>
+<i>This is a snapshot of the HiQP source code as of after having finished my M.Sc. thesis. It is kept here as a showcase of my final M.Sc. work. For the real HiQP source code, please checkout the OrebroUniversity profile at GitHub.</i>
 
 HiQP is a whole-body control framework for computing inverse kinematics (and dynamics in future releases) involving multiple objectives which can be incompatible. It uses the inequality task function approach in [1] and is based on hierarchical least-squares optimization. Lower-ranked tasks are fulfilled as good as possible (in the least-square sense) in the null-space of higher-ranked tasks. More details are given in [2] - available at http://www.diva-portal.org/smash/get/diva2:1056500/FULLTEXT01.pdf. 
 
